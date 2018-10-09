@@ -4,3 +4,6 @@ div {
     text-align: center;
     margin-top: 80px;
 }
+canvas {
+    transform: scale(1);
+}
